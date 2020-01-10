@@ -1,6 +1,6 @@
 # Juego con bolas 
 
-**Programa**: https://github.com/oscarjcg/ball-game-java/tree/master/Aplication
+**Programa**: https://github.com/oscarjcg/ball-game-java/tree/master/Application
 * **Windows**: Standalone
 * **Linux**: java -jar Aplicacion.jar
 
