@@ -1,6 +1,6 @@
-# Juego con bolas 
+# Game with balls 
 
-**Programa**: https://github.com/oscarjcg/ball-game-java/tree/master/Application
+**Program**: https://github.com/oscarjcg/ball-game-java/tree/master/Application
 * **Windows**: Standalone
 * **Linux**: java -jar Aplicacion.jar
 
@@ -9,13 +9,13 @@
 	title="Preview" width="500"/>
 </p>
 
-**Descripción:** Juego de disparos con bolas
+**Description:** Shooting game with balls
 
-**Características**:
-* Mouse click: Disparar bola
+**Features**:
+* Mouse click: Shoot ball
 * MVC
 
-**Entorno de desarrollo**:
-* **Sistema operativo:** Linux
-* **Java:** 1.8.0_121  
+**Development environment**:
+* **OS**: Linux
+* **Java**: 1.8.0_121  
 * **Eclipse**: Neon
